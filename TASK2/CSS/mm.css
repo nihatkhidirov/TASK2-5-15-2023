@@ -1,0 +1,75 @@
+ul {
+    list-style: none;
+}
+
+footer a {
+    text-decoration: underline;
+    color: white;
+}
+
+footer {
+    width: 80%;
+    height: 300px;
+    margin: 0px auto;
+    background: black;
+    color: white;
+    padding-top: 75px;
+}
+
+footer .main {
+    width: 85%;
+    height: 75%;
+    margin: 0px auto;
+    /* border: solid 1px red; */
+    display: flex;
+}
+
+.about {
+    width: 25%;
+    height: 100%;
+    /* border: 1px solid blue; */
+}
+
+.pteg {
+    width: 75%;
+    height: auto;
+    /* border: 1px solid yellow; */
+}
+
+.linkler {
+    width: 46%;
+    height: 78%;
+    display: flex;
+    /* border: 1px solid blue; */
+}
+
+footer ul {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-right: 190px;
+}
+
+footer li {
+    margin-bottom: 4px;
+    margin-right: 80px;
+}
+
+
+.yorursan {
+    display: flex;
+    padding-right: 200px;
+    /* border: 1px solid red; */
+}
+
+.yorursan .p1 {
+    position: absolute;
+}
+
+.ppp {
+    padding-bottom: 25px;
+}
+
+i {
+    font-size: 50px;
+}

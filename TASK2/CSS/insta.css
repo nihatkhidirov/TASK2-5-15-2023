@@ -1,0 +1,33 @@
+.insta{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.fti{
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+.fti div{
+    margin-right: 60px;
+}
+i{
+    margin-right: 10px;
+}
+
+label{
+    margin-right: 20px;
+}
+
+.text,
+.submit{
+    font-size: 25px;
+    font-weight:normal ;
+}
+
+.submit{
+    background: blue;
+    color: white;
+}
+
